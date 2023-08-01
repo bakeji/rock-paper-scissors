@@ -55,7 +55,7 @@ export default function App(){
      
       setIsTie(true)
     }
-    else if(clickedButton ==="rock" && showHouseChoice.name ==="paper"){
+    else if(clickedButton ==="paper" && showHouseChoice.name ==="rock"){
       setIsWon(true)
       newScore++
       
