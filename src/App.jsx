@@ -1,8 +1,8 @@
 import React, {useEffect, useState} from "react";
 import ScoreBoard from "./components/scoreboard";
-import Game from "./components/Game";
-import RulesBtn from "./components/RulesBtn";
-import PopUp from "./components/PopUp";
+import Game from "./components/game";
+import RulesBtn from "./components/rulesbtn";
+import PopUp from "./components/popup";
 
 export default function App(){
 // buttons array
